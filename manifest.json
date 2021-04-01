@@ -4,6 +4,7 @@
     "ankiweb_id": "1178291236",
     "author": "BigFatDuck1",
     "version": "v1.0",
-    "homepage": "https://github.com/BigFatDuck1/highlightcolorshortcut-anki"
+    "homepage": "https://github.com/BigFatDuck1/highlightcolorshortcut-anki",
+    "conflicts": "1759040096"
 
 }
