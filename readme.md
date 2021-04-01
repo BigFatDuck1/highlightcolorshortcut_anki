@@ -2,9 +2,9 @@
 
 _Set a keyboard shortcut to highlight selected text quickly._
 
-![Screenshot](https://github.com/BigFatDuck1/highlightcolorshortcut-anki/blob/master/images/screenshot.png)
+![Screenshot](https://github.com/BigFatDuck1/highlightcolorshortcut_anki/blob/master/images/screenshot.png)
 
-![Screenshot](https://github.com/BigFatDuck1/highlightcolorshortcut-anki/blob/master/images/capture.gif)
+![Screenshot](https://github.com/BigFatDuck1/highlightcolorshortcut_anki/blob/master/images/capture.gif)
 
 ## Installation
 
